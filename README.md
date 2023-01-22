@@ -7,7 +7,7 @@
 <h5>💬 Ask me about cloud computing,Devops & IOT</h5>
 <h5>🌱I am getting trained in multiple technologies like containers,infrastructure,deployment,cloud,and all high-end technologies</h5>
 <h5>🌱 I’m currently learning Cryptography,Openshift and Terraform</h5>
-<h5>📫 How to reach me👉 rahulagarwal1282@gmail.com</h5>
+<h5>📫 How to reach me👉 **rahulagarwal1282@gmail.com**</h5>
 
 <h3 align="left">Connect with me:</h3>
 <hr>
