@@ -28,8 +28,8 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulagarwal128&show_icons=true&locale=en&layout=compact" alt="rahulagarwal128" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulagarwal086&show_icons=true&locale=en&layout=compact" alt="rahulagarwal086" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulagarwal128&show_icons=true&locale=en" alt="rahulagarwal128" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulagarwal086&show_icons=true&locale=en" alt="rahulagarwal086" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagarwal128&" alt="rahulagarwal128" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagarwal086&" alt="rahulagarwal086" /></p>
