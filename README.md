@@ -1,6 +1,6 @@
 <h3 align="center"> Hi! there👋</h3>
 <hr>
-<h5 align="left">Hi! I'm Rahul from Agra India, a passionate cloud DevOps enthusiast and a technophile who wants to learn & explore latest technologies to solve real world problems amd make lives better.</h5>
+<h5 align="left">Hi! I'm Rahul from Agra India, a passionate cloud DevOps enthusiast and a technophile who wants to learn & explore latest technologies to solve real world problems and make lives better.</h5>
 <img align="right" alt="DevOps" width ="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
 
 <h5>🔭 I’m currently pursuing final year of my Bachelor's degree in Internet Of Things (IOT)</h5>
