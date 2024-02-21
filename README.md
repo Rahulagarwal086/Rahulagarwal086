@@ -3,10 +3,10 @@
 <h5 align="left">Hi! I'm Rahul from Agra India, a passionate cloud DevOps enthusiast and a technophile who wants to learn & explore latest technologies to solve real world problems and make lives better.</h5>
 <img align="right" alt="DevOps" width ="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
 
-<h5>🔭 I’m currently pursuing final year of my Bachelor's degree in Internet Of Things (IOT)</h5>
+<h5>🔭 I’m pursuing my Master's degree in AI & Cloud computing.</h5>
 <h5>💬 Ask me about cloud computing,Devops & IOT</h5>
 <h5>🌱I am getting trained in multiple technologies like containers,infrastructure,deployment,cloud,and all high-end technologies</h5>
-<h5>🌱 I’m currently learning Cryptography,Openshift and Terraform</h5>
+<h5>🌱 I’m currently learning java,Openshift and Terraform</h5>
 <h5>📫 How to reach me👉 **rahulagarwal1282@gmail.com**</h5>
 
 <h2 align="left">Connect with me:</h2>
